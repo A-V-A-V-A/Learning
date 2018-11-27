@@ -1,0 +1,122 @@
+body{
+
+  padding: 50px;
+  background-color: #ccfff5;
+  font-family: sans-serif;
+}
+
+
+#container{
+  display: flex;
+  justify-content: flex;
+}
+
+
+.App {
+  text-align: center;
+}
+
+
+.wholeBackround{
+
+ position: absolute;
+  background-color: #b3ffec;
+
+}
+.App-header {
+
+  background-color: #ffccff;#ccffee
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+  font-size: 3.3em;
+  position: absolute;
+  width: 88%;
+  height: 66px;
+
+  background-color: #ffccff;
+  font-style: sans-serif;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+
+
+
+.Slidy{
+
+  width: 88%;
+  height: 111px;
+
+}
+center{
+
+justify-content: center;
+align-items: center;
+
+}
+
+.FlySHow{
+
+    background-color: #ffccff;
+    object-position: bottom;
+}
+
+.Menu{
+
+  font-size: 1.3em;
+  position: absolute;
+  width: 88%;
+  height: 66px;
+
+}
+
+outside {
+    width: 77%;
+    height: 320px;
+    background-color: #ffccff; /*to make it visible*/
+    bottom:100;
+}
+
+
+
+
+footer {
+   position:absolute;
+   bottom:30px;
+   width:100%;
+}
+
+h1
+{
+  color:#ffccff;
+	font-size:3em;
+	text-align: center;
+
+
+
+}
+
+m1{
+    position: absolute;
+    bottom: 0;
+  	font-size:0.8em;
+    font-family: Impact;
+
+}
+
+ul {
+
+ list-style-type: none;
+ background-color:#ffccff;
+ text-align: center;
+
+}
+
+divo{
+    height: 2000px;
+    width: 500%;
+    background-color: powderblue;
+}
